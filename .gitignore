@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian machine/local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# Large/generated exports, if any
+*.zip
+*.tar
+*.tar.gz
+*.7z
