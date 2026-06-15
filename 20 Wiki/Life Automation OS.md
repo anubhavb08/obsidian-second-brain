@@ -3,7 +3,7 @@ type: wiki
 domain: life_automation
 status: active
 source_count: 0
-last_reviewed: 2026-06-03
+last_reviewed: 2026-06-15
 ---
 
 # Life Automation OS
@@ -25,6 +25,8 @@ As of 2026-06-15, this is the weakest area of the Second Brain and needs real so
 - Reminders and recurring automations.
 - Personal task capture.
 - Personal knowledge intake.
+- Email, calendar, and meeting assistant workflows.
+- Personal communication style support via [[AB Communication Style]].
 - Health, learning, money, travel, and admin systems.
 
 ## Starter Workflow

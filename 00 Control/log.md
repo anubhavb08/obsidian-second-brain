@@ -1,5 +1,11 @@
 # Vault Log
 
+## [2026-06-15] memory | AB communication style
+
+- Added [[AB Communication Style]] to preserve AB's email/meeting invite drafting style from aggregate Microsoft 365 review.
+- Captured style guidance only; raw email bodies were not copied into the vault.
+- Updated [[Life Automation OS]] and [[00 Control/index|Vault Index]] so future assistant workflows can use the note.
+
 ## [2026-06-15] memory | Second Brain operating protocol
 
 - Reviewed the Second Brain structure and recent chat decisions.
