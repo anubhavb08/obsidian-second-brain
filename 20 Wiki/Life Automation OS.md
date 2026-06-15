@@ -16,6 +16,8 @@ This page is intentionally light in the first seed. No raw life-automation sourc
 
 Use this page to organize routines, reminders, file cleanup, personal operations, recurring tasks, and decision support.
 
+As of 2026-06-15, this is the weakest area of the Second Brain and needs real source material from cleanup routines, reminders, personal workflows, and recurring automations.
+
 ## Suggested Operating Areas
 
 - Daily and weekly review.

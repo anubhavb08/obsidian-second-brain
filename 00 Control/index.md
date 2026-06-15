@@ -27,6 +27,7 @@ Codex should read this page first when answering questions about this vault.
 - [[Zlicc Event Platform Intelligence]]
 - [[Growth Automation Studio]]
 - [[Personal Growth Skills]]
+- [[Second Brain Operating Protocol]]
 - [[Source Intake Map]]
 - [[Decisions And Guardrails]]
 - [[Open Loops]]

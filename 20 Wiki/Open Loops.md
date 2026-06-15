@@ -12,9 +12,10 @@ Use this page during weekly review.
 
 ## Zlicc
 
-- Confirm whether [[Zlicc Campaign Focus|Agency Tech Partner Stack]] is the next live campaign focus.
+- Build the first live campaign workspace for [[Zlicc Campaign Focus|Agency Tech Partner Stack]].
 - Choose the first agency segment to target.
 - Decide whether the first asset should be a deck, one-pager, or WhatsApp pitch card.
+- Create campaign tasks, proof requirements, outreach copy, and deck outline before refining the weekly command dashboard.
 - Convert the six-pillar map into website and sales-deck navigation.
 - Decide what Growth Console owns internally versus what becomes client-facing.
 - Build [[Zlicc Proof Library]] with permission tags.
@@ -40,3 +41,4 @@ Use this page during weekly review.
 - Review broken links after future imports.
 - Add source summaries when raw snapshots become too hard to scan.
 - Decide whether to add helper scripts after the manual flow is stable.
+- Use [[Second Brain Operating Protocol]] when starting new project discussions or filing completed discussions.

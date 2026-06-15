@@ -20,6 +20,7 @@ This is the starting page for the Obsidian vault.
 
 - [[00 Control/index|Vault Index]]
 - [[00 Control/log|Vault Log]]
+- [[Second Brain Operating Protocol]]
 - [[Source Intake Map]]
 - [[Decisions And Guardrails]]
 - [[Open Loops]]

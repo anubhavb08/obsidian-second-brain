@@ -1,5 +1,11 @@
 # Vault Log
 
+## [2026-06-15] memory | Second Brain operating protocol
+
+- Reviewed the Second Brain structure and recent chat decisions.
+- Added [[Second Brain Operating Protocol]] to preserve the workflow for `Update Second Brain`, `Use Second Brain context`, ChatGPT/Claude integration, Obsidian usage, dashboard strategy, and current health snapshot.
+- Updated [[00 Control/Home|Home]], [[00 Control/index|Vault Index]], [[00 Control/AGENTS|Vault Maintenance Rules]], [[Decisions And Guardrails]], [[Open Loops]], and [[Life Automation OS]].
+
 ## [2026-06-05] skill | Enterprise CTO AI company intelligence expansion
 
 - Expanded Enterprise CTO with AI company and tool intelligence across leading model labs, cloud model platforms, open-weight ecosystems, infrastructure providers, enterprise AI platforms, coding agents, search/RAG tools, and creative AI companies.

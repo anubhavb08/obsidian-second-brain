@@ -17,6 +17,9 @@ This page records cross-vault decisions that should guide future work.
 - Clean working intelligence lives in `20 Wiki`.
 - Navigation, logs, and rules live in `00 Control`.
 - The first version avoids Obsidian community plugins and heavy automation.
+- `Update Second Brain` is the deliberate trigger for saving useful chat outcomes into the vault.
+- `Use Second Brain context` is the deliberate trigger for grounding a new discussion in this vault.
+- The vault grounds future thinking but should not prevent fresh strategy, project-file inspection, or new recommendations.
 
 ## Source-System Boundaries
 
@@ -57,3 +60,9 @@ Sources:
 - [[10 Raw Sources/Zlicc Marketing/Zlicc_Growth_Console_V1_PRD|Zlicc Growth Console V1 PRD]]
 - [[10 Raw Sources/Personal Growth/docs/overall-plan|Growth Automation Studio Overall Plan]]
 - [[10 Raw Sources/Codex/2026-04-28/i-want-you-to-create-a/whatsapp-business-api-scope|WhatsApp Business API Scope]]
+
+## Tool Integration Guardrails
+
+- ChatGPT web cannot be assumed to read the local Obsidian vault unless files are uploaded, mirrored, or exposed through a connector.
+- Claude Desktop can use the vault only if local filesystem/MCP access is configured and scoped to this vault.
+- Obsidian is useful for weekly review and browsing, but it is not mandatory for day-to-day filing.

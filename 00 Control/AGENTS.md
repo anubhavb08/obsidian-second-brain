@@ -6,8 +6,15 @@ These rules apply when Codex or another LLM works inside `/Users/anubhavbajpai/D
 
 1. Read [[00 Control/index]] first.
 2. Read [[00 Control/log]] if the task depends on recent vault changes.
-3. Read relevant wiki pages before reading raw sources.
-4. Read raw source snapshots only when evidence or detail is needed.
+3. Read [[Second Brain Operating Protocol]] when the user asks to use, update, connect, review, or improve the Second Brain.
+4. Read relevant wiki pages before reading raw sources.
+5. Read raw source snapshots only when evidence or detail is needed.
+
+## User Triggers
+
+- `Use Second Brain context` means read [[00 Control/index]] first, then the relevant dashboard and source pages.
+- `Update Second Brain` means file the current discussion into the relevant wiki page, update affected links, and append [[00 Control/log]].
+- The Second Brain should ground work, not limit it. Use project files and fresh reasoning when useful.
 
 ## Source Boundaries
 
@@ -36,6 +43,7 @@ Every meaningful ingest or restructuring pass must update:
 - Mark uncertain claims as open questions.
 - Keep Zlicc and Personal Growth separate unless a note explicitly compares them.
 - Keep outbound actions, publishing, pricing, proposals, client references, and operational promises behind human approval.
+- Treat `Zandem.ai` as a discussed candidate name only, not a finalized brand.
 
 ## Domain Values
 
