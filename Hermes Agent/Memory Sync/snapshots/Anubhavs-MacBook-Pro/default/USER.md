@@ -3,8 +3,8 @@ source_host: Anubhavs-MacBook-Pro
 profile: default
 kind: USER
 source_path: /Users/anubhavbajpai/.hermes/memories/USER.md
-updated_utc: 2026-06-18T11:48:51.912952+00:00
-entry_count: 6
+updated_utc: 2026-06-18T11:51:17.830468+00:00
+entry_count: 8
 ---
 
 # Hermes USER snapshot — Anubhavs-MacBook-Pro/default
@@ -23,4 +23,8 @@ User wants Hermes used as an always-on Telegram-accessible automation assistant,
 User wants the Zlicc sales/growth context handled as a reusable named agent/persona called Rocky; Rocky should prioritize simple solo-managed automation over reviving the complex Zlicc Growth Console.
 §
 User prefers crisp layman explanations and does not want long comprehensive responses unless explicitly asking to summarize the whole conversation.
+§
+User prefers faster, direct, crisp layman explanations; avoid long comprehensive responses unless explicitly requested.
+§
+User prefers Obsidian as the shared, human-readable knowledge base for Hermes across Mac and AWS; do not assume native Hermes memory automatically syncs across machines.
 ```
