@@ -1,0 +1,7 @@
+Shared Hermes/Obsidian setup: Mac vault path is /Users/anubhavbajpai/Documents/AB's Second Brain; AWS vault path is /home/ubuntu/knowledge/obsidian-second-brain; both sync through private GitHub repo git@github-obsidian-second-brain:anubhavb08/obsidian-second-brain.git.
+§
+AWS Hermes profiles: dev is Veeru Telegram bot (@Veeru_13_bot), marketing is Jay Telegram bot (@Jai_13_bot). Both use the shared Obsidian vault path on AWS.
+§
+Zlicc/Rocky context: Rocky is the reusable Zlicc sales/growth persona; prioritize simple solo-managed automation over reviving the complex Zlicc Growth Console.
+§
+Zlicc stack: SendGrid, Meta WhatsApp API, Bigin CRM. Zlicc outbound uses Offer × Persona × Signal; start with small/mid listed companies before large enterprises.
