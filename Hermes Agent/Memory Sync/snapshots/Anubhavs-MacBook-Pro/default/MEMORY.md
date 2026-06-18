@@ -3,7 +3,7 @@ source_host: Anubhavs-MacBook-Pro
 profile: default
 kind: MEMORY
 source_path: /Users/anubhavbajpai/.hermes/memories/MEMORY.md
-updated_utc: 2026-06-18T11:52:22.323242+00:00
+updated_utc: 2026-06-18T12:02:48.138522+00:00
 entry_count: 6
 ---
 
@@ -14,7 +14,7 @@ entry_count: 6
 ```text
 Remote Hermes server: 52.14.167.58, SSH ubuntu, key /Users/anubhavbajpai/Downloads/09 Personal and Sensitive/keys/mice_ohio.pem. Hermes v0.16.0 at /home/ubuntu/.hermes/hermes-agent; gateway user service enabled; Telegram dependency installed.
 §
-User's Obsidian vault is synced via private GitHub repo git@github-obsidian-second-brain:anubhavb08/obsidian-second-brain.git. Local path: /Users/anubhavbajpai/Documents/AB's Second Brain with Hermes cron job 9564b5518686 running ~/.hermes/scripts/obsidian-git-sync.sh every 5m. AWS path: /home/ubuntu/knowledge/obsidian-second-brain with crontab running /home/ubuntu/.hermes/scripts/obsidian-git-sync.sh every 5m. Both Hermes .env files set OBSIDIAN_VAULT_PATH accordingly.
+Shared Obsidian vault: Mac /Users/anubhavbajpai/Documents/AB's Second Brain, AWS /home/ubuntu/knowledge/obsidian-second-brain, private repo git@github-obsidian-second-brain:anubhavb08/obsidian-second-brain.git. Vault sync: Mac cron 9564b5518686, AWS crontab every 5m. Hermes memory hub: ~/.hermes/scripts/hermes-memory-sync-and-push.sh exports profile memories to Obsidian/Hermes Agent/Memory Sync and pushes only that folder; Mac cron deff442f87d1 every 10m, AWS crontab every 10m.
 §
 AWS Hermes has a separate dev profile for Telegram bot Veeru (@Veeru_13_bot): profile path /home/ubuntu/.hermes/profiles/dev, service hermes-gateway-dev.service, allowed Telegram user 8811060907, using copied OpenAI Codex OAuth auth and the shared Obsidian vault path /home/ubuntu/knowledge/obsidian-second-brain.
 §
