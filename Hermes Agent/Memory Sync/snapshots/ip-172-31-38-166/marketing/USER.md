@@ -3,8 +3,8 @@ source_host: ip-172-31-38-166
 profile: marketing
 kind: USER
 source_path: /home/ubuntu/.hermes/profiles/marketing/memories/USER.md
-updated_utc: 2026-06-18T11:49:43.188948+00:00
-entry_count: 4
+updated_utc: 2026-06-18T11:51:47.821943+00:00
+entry_count: 8
 ---
 
 # Hermes USER snapshot — ip-172-31-38-166/marketing
@@ -19,4 +19,12 @@ User has high expectations for presentation design quality: content structure al
 For Zlicc deck work, user prefers original transparent PNG/SVG logos and real brand/reference assets over recreated or screenshot-derived logos; poor logo integration is unacceptable.
 §
 User prefers concise, non-repetitive marketing/strategy responses and wants idea generation to avoid over-indexing on one example unless explicitly requested.
+§
+User's GitHub username is anubhavb08.
+§
+User prefers faster, direct, crisp layman explanations; avoid long comprehensive responses unless explicitly requested.
+§
+User prefers Obsidian as the shared, human-readable knowledge base for Hermes across Mac and AWS; do not assume native Hermes memory automatically syncs across machines.
+§
+User wants Hermes used as an always-on Telegram-accessible automation assistant, including scheduled health checks/monitoring for hosted services and external websites such as www.zlicc.com.
 ```

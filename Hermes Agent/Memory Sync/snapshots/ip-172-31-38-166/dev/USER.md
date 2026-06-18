@@ -3,8 +3,8 @@ source_host: ip-172-31-38-166
 profile: dev
 kind: USER
 source_path: /home/ubuntu/.hermes/profiles/dev/memories/USER.md
-updated_utc: 2026-06-18T11:49:43.187822+00:00
-entry_count: 1
+updated_utc: 2026-06-18T11:51:47.821521+00:00
+entry_count: 5
 ---
 
 # Hermes USER snapshot — ip-172-31-38-166/dev
@@ -13,4 +13,12 @@ entry_count: 1
 
 ```text
 User prefers a 5-minute prior reminder only for scheduled discussions/reviews/meetings, not for routine updates or reports.
+§
+User's GitHub username is anubhavb08.
+§
+User prefers faster, direct, crisp layman explanations; avoid long comprehensive responses unless explicitly requested.
+§
+User prefers Obsidian as the shared, human-readable knowledge base for Hermes across Mac and AWS; do not assume native Hermes memory automatically syncs across machines.
+§
+User wants Hermes used as an always-on Telegram-accessible automation assistant, including scheduled health checks/monitoring for hosted services and external websites such as www.zlicc.com.
 ```

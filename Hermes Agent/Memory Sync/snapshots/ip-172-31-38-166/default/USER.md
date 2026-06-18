@@ -3,8 +3,8 @@ source_host: ip-172-31-38-166
 profile: default
 kind: USER
 source_path: /home/ubuntu/.hermes/memories/USER.md
-updated_utc: 2026-06-18T11:49:43.187050+00:00
-entry_count: 6
+updated_utc: 2026-06-18T11:51:47.820962+00:00
+entry_count: 7
 ---
 
 # Hermes USER snapshot — ip-172-31-38-166/default
@@ -23,4 +23,6 @@ User informally calls the assistant “Gabbar” and is comfortable with that pe
 User manages Zlicc website at www.zlicc.com, currently an HTML/static site without a CMS, and wants SEO/content maintenance with summaries and explicit approval before implementation.
 §
 User's email writing style: professional, direct, business-first, concise-to-moderate length; often opens with “Hi” or “Dear”, uses polite action language such as “please”, “kindly”, “as discussed”, “please confirm”, “please find attached”, and “let me know”; prefers practical structure of context → request/update → next step, with bullets/numbered points for agendas or business updates; avoids excessive exclamation marks and overly casual language.
+§
+User's GitHub username is anubhavb08.
 ```

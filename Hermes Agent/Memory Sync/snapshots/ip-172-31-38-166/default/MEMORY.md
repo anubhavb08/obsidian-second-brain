@@ -3,8 +3,8 @@ source_host: ip-172-31-38-166
 profile: default
 kind: MEMORY
 source_path: /home/ubuntu/.hermes/memories/MEMORY.md
-updated_utc: 2026-06-18T11:49:43.187196+00:00
-entry_count: 3
+updated_utc: 2026-06-18T11:51:47.821181+00:00
+entry_count: 7
 ---
 
 # Hermes MEMORY snapshot — ip-172-31-38-166/default
@@ -17,4 +17,12 @@ Microsoft Graph app registration for user's Office 365 integration: tenant ID ab
 Zlicc target geographies for SEO/content are India—especially Mumbai, Delhi NCR, Bangalore, and Pune—plus Dubai and Singapore.
 §
 Daily Zlicc.com health report cron job is owned by Gabbar/default Hermes profile only; Jay and Veeru/other agent profiles should not update or run that cron job.
+§
+Shared Hermes/Obsidian setup: Mac vault path is /Users/anubhavbajpai/Documents/AB's Second Brain; AWS vault path is /home/ubuntu/knowledge/obsidian-second-brain; both sync through private GitHub repo git@github-obsidian-second-brain:anubhavb08/obsidian-second-brain.git.
+§
+AWS Hermes profiles: dev is Veeru Telegram bot (@Veeru_13_bot), marketing is Jay Telegram bot (@Jai_13_bot). Both use the shared Obsidian vault path on AWS.
+§
+Zlicc/Rocky context: Rocky is the reusable Zlicc sales/growth persona; prioritize simple solo-managed automation over reviving the complex Zlicc Growth Console.
+§
+Zlicc stack: SendGrid, Meta WhatsApp API, Bigin CRM. Zlicc outbound uses Offer × Persona × Signal; start with small/mid listed companies before large enterprises.
 ```
