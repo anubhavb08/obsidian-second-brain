@@ -3,8 +3,8 @@ source_host: Anubhavs-MacBook-Pro
 profile: ab-personal
 kind: MEMORY
 source_path: /Users/anubhavbajpai/.hermes/profiles/ab-personal/memories/MEMORY.md
-updated_utc: 2026-06-29T07:55:12.615741+00:00
-entry_count: 4
+updated_utc: 2026-06-29T08:06:09.054801+00:00
+entry_count: 5
 ---
 
 # Hermes MEMORY snapshot — Anubhavs-MacBook-Pro/ab-personal
@@ -19,4 +19,6 @@ AWS Hermes profiles: dev is Veeru Telegram bot (@Veeru_13_bot), marketing is Jay
 Zlicc/Rocky context: Rocky is the reusable Zlicc sales/growth persona; prioritize simple solo-managed automation over reviving the complex Zlicc Growth Console.
 §
 Zlicc stack: SendGrid, Meta WhatsApp API, Bigin CRM. Zlicc outbound uses Offer × Persona × Signal; start with small/mid listed companies before large enterprises.
+§
+Zlicc Intelligent Booth OS / Booth Intelligence OS: treat "RF and camera signals" as the premium analytics signal-fusion layer. Camera means MediaPipe/computer-vision analytics for aggregate people count, dwell zones, demo-area attention, crowding, queues, passerby-to-entry, and staff coverage. RF/edge means ESP32-class devices plus suitable BLE/RFID/NFC/UWB/Wi-Fi proximity options for zone presence, repeat visits, path movement, density, and interaction triggers. Fuse these with QR/profile/resource scans, staff/voice notes, and CRM handoff. Keep customer-facing language outcome-led and aggregate-only; do not imply face recognition, audio surveillance, individual camera identity mapping, or individual RF/device fingerprinting unless explicitly approved and consented.
 ```
